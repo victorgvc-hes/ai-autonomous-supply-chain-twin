@@ -320,14 +320,13 @@ This project demonstrates:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-## 👤 Auteur
+## Author
 
 **Victor Vergara**
 
-*Professionnel des opérations et de la chaîne d’approvisionnement | 20+ ans d’expérience*  
-*Focused on applying AI/ML, forecasting, and digital transformation to real-world operational challenges.*
+Procurement and operations professional with 20+ years of experience in supply chain, analytics, and process improvement. Focused on applying AI/ML, forecasting, and digital transformation to real-world operational challenges.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio%20complet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorgvc-hes?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-victorgvc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgvc@gmail.com)
-
+- LinkedIn: https://www.linkedin.com/in/victor-vergara075/
+- Email: victorgvc@gmail.com
+- Portfolio: https://github.com/victorgvc-hes?tab=repositories
 ---
