@@ -288,8 +288,6 @@ Project documentation includes:
 - [RL Experiment Summary](docs/RL_EXPERIMENT_SUMMARY.md)
 - [Quick Start Guide](docs/QUICK_START.md)
 - [Results Summary](RESULTS_SUMMARY.md)
-- [Executive Presentation Script](docs/PRESENTATION_SCRIPT_EXECUTIVE_FINAL.md)
-- [Technical Presentation Script](docs/PRESENTATION_SCRIPT_TECHNICAL_FINAL.md)
 
 ---
 
